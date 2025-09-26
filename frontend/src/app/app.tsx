@@ -1,10 +1,9 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import {
   Card,
   Input,
   Button,
   Typography,
-  Checkbox
 } from "@material-tailwind/react";
 
 const App = () => {
