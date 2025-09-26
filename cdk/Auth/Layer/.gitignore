@@ -1,0 +1,3 @@
+python/*
+!python/auth.py
+!python/main.py
