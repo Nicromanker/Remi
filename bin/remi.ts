@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import * as cdk from 'aws-cdk-lib';
-import { RemiStack } from '../lib/remi-stack';
+import { RemiStack } from '../cdk/remi-stack';
 
 const app = new cdk.App();
 new RemiStack(app, 'RemiStack', {
